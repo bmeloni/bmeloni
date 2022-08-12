@@ -1,6 +1,6 @@
 ### ooi, sou a Bia Meloni, prazer em conhecêlo. 👋
 
-- 🔭 Hoje sou estudante em busca de um estágio de front-end.
+- 🔭 Atualmente sou estudante de Engenharia de Computação em busca de um estágio como desenvolvedora em front-end.
 - 🌱 Estou estudando React, Javacript, HTML 5 e CSS 3.
 - 📫 https://www.linkedin.com/in/beatriz-meloni/
 - 😄 Pronomes: Ela/Dela
