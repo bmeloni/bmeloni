@@ -1,6 +1,6 @@
 <h1 align='center'> ooi, sou a Bia Meloni. Prazer em conhecê-lo. 👋👨‍💻 </h1>
 
-* 🔭 Atualmente sou estudante de Engenharia de Computação em busca de um estágio como desenvolvedora front-end.
+* 🔭 Atualmente sou estudante de Engenharia de Computação em busca de um estágio para iniciar minha carreira. 🚀
 * 🌱 Estou estudando React, Javacript, HTML 5 e CSS 3.
 * 😄 Pronomes: Ela/Dela
 
