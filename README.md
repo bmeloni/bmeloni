@@ -1,7 +1,7 @@
 <h1 align='center'> ooi, sou a Bia Meloni. Prazer em conhecê-lo. 👋👨‍💻 </h1>
 
 * 🔭 Atualmente sou estudante de Engenharia de Software e Instrutora de Tecnológia. 🚀
-* 🌱 Estou estudando Mongo DB, Flutter, JavaScript e Node.
+* 🌱 Estou estudando Python, Flutter, Postgre, JavaScript e Node.
 * 😄 Pronomes: Ela/Dela
   
 <div style="display: inline_block"><br>
